@@ -4,12 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>nsh.codility</groupId>
-	<artifactId>challenge2021</artifactId>
+	<artifactId>technetium2019</artifactId>
 	<version>1.0.0</version>
 
 	<name>challenge2021</name>
-	<url>https://github.com/siakhooi/challenge-url-2021/</url>
-
+	<url>https://github.com/siakhooi/codility-technetium-2019/</url>
 	<build>
 		<plugins>
 			<plugin>
